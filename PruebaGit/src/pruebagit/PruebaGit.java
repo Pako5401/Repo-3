@@ -16,7 +16,7 @@ public class PruebaGit {
                 System.out.println(i+" * "+j+" = "+(i*j));
             }
         }
-        System.out.println("Pruba para update);
+        System.out.println("Pruba para update");
     }
     
 }
